@@ -22986,7 +22986,7 @@
   },
   {
     "name": "unchained",
-    "url": "https://github.com/SciNim/unchained",
+    "url": "https://github.com/SciNim/Unchained",
     "method": "git",
     "tags": [
       "library",
@@ -22998,7 +22998,7 @@
     ],
     "description": "Fully type safe, compile time only units library",
     "license": "MIT",
-    "web": "https://github.com/SciNim/unchained"
+    "web": "https://github.com/SciNim/Unchained"
   },
   {
     "name": "syndicate",
@@ -23018,7 +23018,7 @@
   },
   {
     "name": "datamancer",
-    "url": "https://github.com/SciNim/datamancer",
+    "url": "https://github.com/SciNim/Datamancer",
     "method": "git",
     "tags": [
       "library",
@@ -23028,7 +23028,7 @@
     ],
     "description": "A dataframe library with a dplyr like API",
     "license": "MIT",
-    "web": "https://github.com/SciNim/datamancer"
+    "web": "https://github.com/SciNim/Datamancer"
   },
   {
     "name": "listenbrainz",
